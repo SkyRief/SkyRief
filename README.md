@@ -1,2 +1,0 @@
-# SkyRief
-Newbie
